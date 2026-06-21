@@ -1,6 +1,11 @@
 streamlit
 yfinance
 pandas
-textblob
-xgboost
+numpy
 scikit-learn
+tweepy
+praw
+NewsAPI
+textblob
+vaderSentiment
+matplotlib
